@@ -114,7 +114,7 @@ body {
     background-color: #a95530;
     border: solid 1px rgb(32, 18, 7);
     border-radius: 5px 5px 5px 5px;
-    background-image: url(../Project-1-Interaction-Draft-2/HelpIcon.png);
+    background-image: url(../Dada-Poetry-Maker/HelpIcon.png);
     
     background-size: cover;
 }
@@ -123,7 +123,7 @@ body {
     transform: scale(110%);
 }
 #about-icon.closed{
-    background-image: url(../Project-1-Interaction-Draft-2/CloseIcon.png);
+    background-image: url(../Dada-Poetry-Maker/CloseIcon.png);
 }
 #about{
     border: solid 1px rgb(32, 18, 7);
@@ -170,7 +170,7 @@ li img{
     border-radius: 5px 5px 5px 5px;
     display: flex;
     align-items: center;
-    background-image: url(../Project-1-Interaction-Draft-2/AboutPageIcon.png);
+    background-image: url(../Dada-Poetry-Maker/AboutPageIcon.png);
     background-size: cover;
 }
 #about-page:hover{
@@ -193,7 +193,7 @@ li img{
     border-radius: 5px 5px 5px 5px;
     display: flex;
     align-items: center;
-    background-image: url(../Project-1-Interaction-Draft-2/CloseIcon.png);
+    background-image: url(../Dada-Poetry-Maker/CloseIcon.png);
     background-size: cover;
 }
 #control-icon:hover{
@@ -201,7 +201,7 @@ li img{
     transform: scale(110%);
 }
 #control-icon.closed{
-    background-image: url(../Project-1-Interaction-Draft-2/CreateIcon.png);
+    background-image: url(../Dada-Poetry-Maker/CreateIcon.png);
     background-size: cover;
 }
 #control{
