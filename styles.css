@@ -59,6 +59,7 @@ html.easter-egg body {
         min-height: 100%;
         object-fit: cover;
         object-position: 0 0;
+        mix-blend-mode: overlay;
     }
 }
 
